@@ -1,0 +1,14 @@
+D:\dotnet\Email\bin\Debug\net7.0\Email.exe
+D:\dotnet\Email\bin\Debug\net7.0\Email.deps.json
+D:\dotnet\Email\bin\Debug\net7.0\Email.runtimeconfig.json
+D:\dotnet\Email\bin\Debug\net7.0\Email.dll
+D:\dotnet\Email\bin\Debug\net7.0\Email.pdb
+D:\dotnet\Email\obj\Debug\net7.0\Email.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Email\obj\Debug\net7.0\Email.AssemblyInfoInputs.cache
+D:\dotnet\Email\obj\Debug\net7.0\Email.AssemblyInfo.cs
+D:\dotnet\Email\obj\Debug\net7.0\Email.csproj.CoreCompileInputs.cache
+D:\dotnet\Email\obj\Debug\net7.0\Email.dll
+D:\dotnet\Email\obj\Debug\net7.0\refint\Email.dll
+D:\dotnet\Email\obj\Debug\net7.0\Email.pdb
+D:\dotnet\Email\obj\Debug\net7.0\Email.genruntimeconfig.cache
+D:\dotnet\Email\obj\Debug\net7.0\ref\Email.dll
